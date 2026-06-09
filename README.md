@@ -1,4 +1,4 @@
-# KOTOS First Paw 1.0
+# KOTOS
 
 A Linux distribution focused on a polished, glass‑like desktop experience while remaining a practical daily driver.
 
