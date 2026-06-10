@@ -52,7 +52,7 @@ The distribution is assembled with **Cubic** using the official Kubuntu 26.04 LT
 All custom themes, scripts and configuration files are stored in this repository.  
 
 If you want to rebuild your own image, clone the repository and follow the instructions in `docs/build.md` (coming soon).
-
+Preliminary release date: 05/07/26
 ## License
 KOTOS is a remix of free and open‑source software.  
 Individual components are licensed under their respective licences (GPL, LGPL, CC‑BY‑NC‑ND for sound assets).  
